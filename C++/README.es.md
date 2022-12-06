@@ -12,5 +12,12 @@
 - [#4: Producto palíndromo más grande ](./p004.cpp)
 - [#5: Múltiplo más pequeño](./p005.cpp)
 
+## Aviso
+
+Todos los archivos binarios estan compilados para **Linux** con la herramienta **g++** estandar.
+```bash
+g++ -o ./bin/pX ./pX.cpp
+```
+
 ## Licencia
 [MIT License](https://opensource.org/licenses/MIT)

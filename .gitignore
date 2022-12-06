@@ -1,7 +1,2 @@
 # VSCode config
 /.vscode
-
-# Binary files
-/bin
-bin
-/src/bin
