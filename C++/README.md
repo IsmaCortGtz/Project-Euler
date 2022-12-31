@@ -12,9 +12,13 @@
 - [#4: Largest palindrome product](./p004.cpp)
 - [#5: Smallest multiple](./p005.cpp)
 
-## Disclamer
+## Disclaimer
 
-All the bin files are compiled for **Linux** with standard tool **g++**.
+This solutions are made in **Linux** and I can't guarantee that they will work on **Windows**.
+
+## Compiling
+
+You can compile with standard tool **g++** or using another C++ compiler that you want.
 ```bash
 g++ -o ./bin/pX ./pX.cpp
 ```

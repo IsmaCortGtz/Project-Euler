@@ -14,7 +14,11 @@
 
 ## Aviso
 
-Todos los archivos binarios estan compilados para **Linux** con la herramienta **g++** estandar.
+Estas soluciones estan hechasd en **Linux** y no puedo asegurar que funcionen en **Windows**.
+
+## Compilar
+
+Puedes compilar los archivos con la herramienta **g++** o con cualquier otro compilador de C++.
 ```bash
 g++ -o ./bin/pX ./pX.cpp
 ```
