@@ -11,6 +11,8 @@
 - [#3: Largest prime factor](./p003.cpp)
 - [#4: Largest palindrome product](./p004.cpp)
 - [#5: Smallest multiple](./p005.cpp)
+- [#6: Sum square difference](./p006.cpp)
+- [#7: 10001st prime](./p007.cpp)
 
 ## Disclaimer
 

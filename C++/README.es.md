@@ -11,6 +11,8 @@
 - [#3: Mayor factor primo](./p003.cpp)
 - [#4: Producto palíndromo más grande ](./p004.cpp)
 - [#5: Múltiplo más pequeño](./p005.cpp)
+- [#6: Diferencia de suma de cuadrados](./p006.cpp)
+- [#7: 10,001° primo](./p007.cpp)
 
 ## Aviso
 
